@@ -1,0 +1,39 @@
+p {
+    font-family: "Neonderthaw", cursive;
+    font-size: 18px;
+  }
+  #temperature {
+    font-family: "Neonderthaw", cursive;
+    font-size: 35px;
+  }
+  #C {
+    font-family: "Neonderthaw", cursive;
+    font-size: 25px;
+  }
+  h1 {
+    font-family: "Neonderthaw", cursive;
+    font-size: 35px;
+  }
+  h6 {
+    font-family: "Neonderthaw", cursive;
+    font-size: 20px;
+  }
+  h2 {
+    font-family: "Neonderthaw", cursive;
+    font-size: 30px;
+  }
+  p:hover {
+    font-family: "Neonderthaw", cursive;
+    font-size: 18px;
+    text-shadow: 2px 2px 3px #777778, 0 0 1em #30cfd0, 0 0 3em #c689c6;
+  }
+  li {
+    height: 70px;
+    text-align: center;
+    font-size: large;
+  }
+  footer {
+    color: #b2b2b4;
+    text-align: center;
+  }
+  
